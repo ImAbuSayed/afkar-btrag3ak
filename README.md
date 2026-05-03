@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في الليالي الحائرة
+> عيناك سر والنجوم مسافرة
+> أنت الأمان وفي حضورك أكتفي
+> في دفء همسك كل خوفي يختفي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
