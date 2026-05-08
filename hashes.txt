@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Afkar Btrag3ak
+
+This log tracks the cryptographic history and versioning for the song **Afkar Btrag3ak** (afkar-btrag3ak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:36:45.166705 | `v1` | `b6558aeb702afd9a3b7d8666cac31bfa7151e274fafb1fb82fe5973f616f7a40` | `91249ef7dfa65b919c132a4d661df950cc624f2b93fc64bd0509043ef467cce3` | `2026-05-08_afkar-btrag3ak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
